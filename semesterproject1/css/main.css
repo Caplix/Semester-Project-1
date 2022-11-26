@@ -145,7 +145,6 @@ nav{
         height: 120px;
         width: 100vw;
         position:static;
-        bottom: 0;
         margin-top: 20px;
         color: white;
         background-color: black;
@@ -255,12 +254,3 @@ nav{
         font-size: xx-large;
     }
 }
-
-
-
-
-
-
-
-
-
